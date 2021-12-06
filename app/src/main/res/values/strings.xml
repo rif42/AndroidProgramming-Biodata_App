@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BiodataApp</string>
+    <string name="NIM">NIM</string>
+    <string name="NIM_value">A11.2020.12628</string>
+    <string name="name">Nama</string>
+    <string name="name_value">Rifky Ariya Pratama</string>
+    <string name="fotodiri">Foto Diri</string>
+    <string name="hobby">Hobby</string>
+    <string name="hobby_value">Ngoding</string>
+    <string name="desc">Deskripsi Singkat</string>
+    <string name="desc_value">Seorang remaja biasa yang penuh dengan rasa keingintahuan</string>
+    <string name="alamat">Alamat</string>
+    <string name="alamat_value">Jalan Satria Utara, Plombokan</string>
+    <string name="telp">Telepon</string>
+    <string name="telp_value">081216351929</string>
+    <string name="email">Email</string>
+    <string name="email_value">ee.guy.42@gmail.com</string>
+    <string name="placeholder"> </string>
+</resources>
